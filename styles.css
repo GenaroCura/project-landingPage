@@ -70,7 +70,8 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: antiquewhite;
+    background-color: #1f2937;
+    color: #f9faf8;
 }    
 
 .img-header{
